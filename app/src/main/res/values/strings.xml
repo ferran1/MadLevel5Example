@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mad Level 4 Example</string>
+    <string name="reminders">Reminders</string>
+    <string name="see_below">See below for all your reminders</string>
+    <string name="add_your_reminder">Add your reminder</string>
+    <string name="reminder_name">Reminder name</string>
+    <string name="not_valid_reminder">Invalid reminder</string>
+</resources>
